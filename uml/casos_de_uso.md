@@ -11,7 +11,7 @@
 7 - Professor cria post (atividades, testes, provas, simulados, eventos).  
 8 - Professor define permissões adicionais (entregas atrasadas).  
 9 - Professor define data/hora do post.  
-10 - Professor publica post.
+10 - Professor publica post.  
 11 - Aluno entrega atividade no prazo estipulado.  
 12 - Professor avalia e registra atividade.  
 13 - Aluno envia mensagens (privadas ou públicas) para Professor (denúnciar problemas, feedback).  
