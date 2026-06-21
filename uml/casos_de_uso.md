@@ -3,7 +3,7 @@
 
 #### Fluxo normal:
 1 - <ins>Professor acessa o sistema.</ins>   
-2 - Professor cria sala (matéria, sala, turma).
+2 - Professor cria sala (matéria, sala, turma).  
 3 - Professor pede e pega email de alunos
 3 - Professor define permissões (moderador ou leitor).  
 4 - Professor define visibilidade (público ou privado).  
