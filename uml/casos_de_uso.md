@@ -4,7 +4,8 @@
 #### Fluxo normal:
 1 - <ins>Professor acessa o sistema.</ins>   
 2 - Professor cria sala (matéria, sala, turma).  
-3 - Professor pede e pega email de alunos.  
+3 - Professor pede email de Aluno.
+4 - Aluno manda email para Professor.
 3 - Professor define permissões (moderador ou leitor).  
 4 - Professor define visibilidade (público ou privado).  
 5 - Professor publica a sala e manda convite para Aluno.  
