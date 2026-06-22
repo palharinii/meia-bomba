@@ -11,7 +11,7 @@
 7 - Professor publica a sala.  
 8 - Professor manda convite para Aluno.  
 9 - Aluno acessa a sala.  
-10 - Aluno aceita convite de Professor.
+10 - Aluno aceita convite de Professor.  
 11 - Professor cria post (atividades, testes, provas, simulados, eventos).  
 12 - Professor define permissões adicionais (entregas atrasadas).  
 13 - Professor define data/hora do post.  
